@@ -1,0 +1,13 @@
+
+#page-home {
+    margin-top: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#page-home .logo img {
+    width: 500px;
+    
+}
